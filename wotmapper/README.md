@@ -10,4 +10,4 @@ To-do:(for now)
 Brief mode map-follow.
 Reformat the mapper into a Mudlet module.
 
-Contributed by: J.D.(Groderick) and I.S.(Endil)
+Contributed by: F.D.(Groderick) and I.S.(Endil)
