@@ -9,5 +9,6 @@ separate packages.
 To-do:(for now)
 Brief mode map-follow.
 Reformat the mapper into a Mudlet module.
+Find the most up-to-date WoTMUD map.
 
 Contributed by: F.D.(Groderick) and I.S.(Endil)
